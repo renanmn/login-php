@@ -13,7 +13,7 @@
         <h1 class="fonte_p">LOGIN</h1>
         </br><input type="text" placeholder="Usuario" name="user" class="input"> </br></br>
         </br><input type="password" placeholder="Senha" name="senha" class="input"> </br>
-        <input type="submit" value="Envia" name="btn_envia" class="botao">
+        <input type="submit" value="Envia" name="btn_envia" class="botao"></br>
     </div>
     </div>
     </form>
